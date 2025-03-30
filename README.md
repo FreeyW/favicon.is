@@ -51,4 +51,16 @@ If no favicon is found in the HTML, Favicon.is attempts to fetch the favicon fro
 If neither method yields a favicon, a default or placeholder image is returned.
 This approach ensures that Favicon.is can retrieve icons from most websites, even those that do not explicitly declare a favicon in their HTML.
 
+### What if a website doesn't have a favicon?
+
+If a website lacks a favicon, Favicon.is will return a default or placeholder image. This guarantees that your application will always receive an image, even if the target site does not have a favicon.
+
+### Can I use Favicon.is in my application?
+
+Absolutely! Favicon.is is designed for easy integration into various applications. You can utilize it to display favicons for links, enhance user interfaces, or in any situation where you need to programmatically fetch website icons.
+
+### Is there a rate limit for using Favicon.is?
+
+While we aim to provide a reliable service, we do implement rate limiting to ensure fair usage. For specific information regarding rate limits or if you require high-volume access, please contact us directly.
+
 These variations in favicon locations and references make it challenging to reliably fetch the favicon for a given website. Favicone aims to address these challenges by searching for the favicon in multiple sources, including the favicon.ico file, HTML code, and web manifest files.
