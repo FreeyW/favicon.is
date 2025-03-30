@@ -9,6 +9,8 @@
 
 Get the favicon of a domain:
 
+https://favicon.is
+
 - https://favicon.is/google.com
 
 Result: ![https://favicon.is/google.com](https://favicon.is/google.com)
