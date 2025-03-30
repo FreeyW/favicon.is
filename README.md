@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="icon.svg" width="64" height="64" alt="Favicon.is logo">
+  <img src="https://favicon.is/favicon.is" width="64" height="64" alt="Favicon.is logo">
   <h1>Favicon.is</h1>
   <p>A user-friendly API to get favicons quickly and easily from any website.</p>
   <hr>
